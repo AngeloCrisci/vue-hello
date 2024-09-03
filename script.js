@@ -4,7 +4,7 @@ console.log('JS OK')
 
 
 createApp({
-    data(){
+    data() {
         return {
             message: 'Ciao'
         }
