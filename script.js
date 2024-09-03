@@ -1,5 +1,6 @@
-console.log('JS OK')
+console.log('JS OK 1')
 
+const {createApp} = Vue;
 //*Creo un app vue
 
 
